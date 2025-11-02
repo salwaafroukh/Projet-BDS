@@ -1,0 +1,4 @@
+BDSPROJET.sql filter=lfs diff=lfs merge=lfs -text
+Donnée/roads.zip filter=lfs diff=lfs merge=lfs -text
+Script[[:space:]]de[[:space:]]la[[:space:]]BDS/BDSPROJET.sql filter=lfs diff=lfs merge=lfs -text
+roads.zip filter=lfs diff=lfs merge=lfs -text
